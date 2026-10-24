@@ -1,0 +1,88 @@
+/* [project]/styles/Login.module.css [client] (css) */
+.Login-module__DCxJyW__page {
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 16px;
+  display: flex;
+}
+
+.Login-module__DCxJyW__card {
+  background: #16161a;
+  border: 1px solid #26262c;
+  border-radius: 16px;
+  flex-direction: column;
+  gap: 14px;
+  width: 100%;
+  max-width: 380px;
+  padding: 32px;
+  display: flex;
+  box-shadow: 0 20px 50px #00000073;
+}
+
+.Login-module__DCxJyW__title {
+  margin-bottom: 6px;
+  font-size: 24px;
+}
+
+.Login-module__DCxJyW__input {
+  color: #f5f5f5;
+  background: #0f0f12;
+  border: 1px solid #2c2c33;
+  border-radius: 10px;
+  outline: none;
+  padding: 12px 14px;
+  font-size: 15px;
+  transition: border-color .2s, box-shadow .2s;
+}
+
+.Login-module__DCxJyW__input:hover {
+  border-color: #3d3d46;
+}
+
+.Login-module__DCxJyW__input:focus {
+  border-color: #ff5a1f;
+  box-shadow: 0 0 0 3px #ff5a1f33;
+}
+
+.Login-module__DCxJyW__err {
+  color: #ff4d4f;
+  background: #ff4d4f1a;
+  border-radius: 8px;
+  padding: 10px 12px;
+  font-size: 14px;
+}
+
+.Login-module__DCxJyW__button {
+  color: #fff;
+  cursor: pointer;
+  background: #ff5a1f;
+  border: none;
+  border-radius: 10px;
+  padding: 12px;
+  font-size: 15px;
+  font-weight: 600;
+  transition: background .2s, transform .1s, box-shadow .2s;
+}
+
+.Login-module__DCxJyW__button:hover {
+  background: #ff7340;
+  box-shadow: 0 8px 20px #ff5a1f59;
+}
+
+.Login-module__DCxJyW__button:active {
+  transform: scale(.98);
+}
+
+.Login-module__DCxJyW__button:disabled {
+  opacity: .6;
+  cursor: not-allowed;
+}
+
+.Login-module__DCxJyW__hint {
+  color: #8a8a93;
+  text-align: center;
+  font-size: 13px;
+}
+
+/*# sourceMappingURL=styles_Login_module_0h89zytfr57y-.css.map*/

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/user/Desktop/my-auth-app/styles/Dashboard.module.css"],"sourcesContent":[".page {\n  min-height: 100vh;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  padding: 16px;\n}\n\n.card {\n  width: 100%;\n  max-width: 480px;\n  padding: 36px;\n  text-align: center;\n  background: #16161a;\n  border: 1px solid #26262c;\n  border-radius: 16px;\n  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.45);\n}\n\n.title {\n  font-size: 26px;\n  margin-bottom: 12px;\n}\n\n.text {\n  color: #a8a8b0;\n  margin-bottom: 24px;\n  line-height: 1.5;\n}\n\n.button {\n  padding: 12px 28px;\n  font-size: 15px;\n  font-weight: 600;\n  color: #ff5a1f;\n  background: transparent;\n  border: 1px solid #ff5a1f;\n  border-radius: 10px;\n  cursor: pointer;\n  transition: background 0.2s, color 0.2s, box-shadow 0.2s;\n}\n\n.button:hover {\n  color: #fff;\n  background: #ff5a1f;\n  box-shadow: 0 8px 20px rgba(255, 90, 31, 0.35);\n}\n"],"names":[],"mappings":"AAAA;;;;;;;;AAQA;;;;;;;;;;;AAWA;;;;;AAKA;;;;;;AAMA;;;;;;;;;;;;AAYA"}}]
+}

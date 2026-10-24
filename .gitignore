@@ -1,0 +1,21 @@
+# Maxfiy fayllar (parollar va kalitlar)
+.env
+.env.local
+*.pem
+
+# Dasturlar va operatsion tizim fayllari
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Tillarning yuklanmalari (Kutubxonalar)
+node_modules/
+vendor/
+venv/
+.venv/
+
+# Tayyor build papkalari va loglar
+dist/
+build/
+*.log
